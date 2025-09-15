@@ -98,4 +98,6 @@ Prueba una de estas opciones:
 
 ## ©️ Copyright notice
 
-Silksong and all its assets are copyrighted property of their creators ([Team Cherry](https://www.teamcherry.com.au/)). This repository **does NOT include original game files or assets**, but rather very similar cursors inspired by the game **Hollow Knight: Silksong**, always with the utmost respect and love for the game and its creators. The author of this repository is not responsible for copyright violations by contributors or users.
+Silksong and all its assets are copyrighted property of their creators ([Team Cherry](https://www.teamcherry.com.au/)). This repository **does NOT include original game files or assets**, but rather very similar cursors inspired by the game **Hollow Knight: Silksong**, always with the utmost respect and love for the game and its creators.
+
+All credit to [Todo Hollow Knight](https://www.youtube.com/@todohollowknight) for the cursors. You can also watch his [video](https://www.youtube.com/watch?v=PcGqkekvqSk) for instructions on how to install them, which are very similar to those in this repository.
